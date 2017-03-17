@@ -33,7 +33,6 @@
 #import <BlocksKit/UIControl+BlocksKit.h>
 #import <BlocksKit/UIGestureRecognizer+BlocksKit.h>
 #import <BlocksKit/UIImage+BlocksKit.h>
-#import <BlocksKit/UIImagePickerController+BlocksKit.h>
 #import <BlocksKit/UIPopoverController+BlocksKit.h>
 #import <BlocksKit/UITextField+BlocksKit.h>
 #import <BlocksKit/UIView+BlocksKit.h>
